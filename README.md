@@ -26,5 +26,5 @@ La estructura del proyecto incluye los siguientes archivos y directorios:
 Para utilizar este proyecto, simplemente clona el repositorio y abre el archivo `index.html` en tu navegador web.
 
 ```shell
-git clone https://github.com/tu-nombre-de-usuario/clon-pinterest.git
+https://github.com/ElizabethArr/Practica_Pinterest.git
 cd clon-pinterest
